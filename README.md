@@ -1,5 +1,6 @@
-# SMDEIT---CAGED-a-Power_BI-Project
-Projeto Power BI para a Secretaria Municipal de Desenvolvimento Econômico Inovação Tecnologia
+# Secretaria Municipal de Desenvolvimento Econômico Inovação Tecnologia (SMDEIT)
+ Cadastro Geral de Empregados e Desempregados (CAGED) Power BI project.
+
 
 ![dri_pw_1](https://user-images.githubusercontent.com/86270206/226346322-0fd5bea7-dec9-46f0-9e0c-8e9fd8f2ace3.png)
 
